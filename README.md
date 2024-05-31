@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Habibur Rahaman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img aling="centre">https://www.google.com/search?q=!%5BCoding+GIF%5D(https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FVTtANKl0beDFQRLDTh%2Fgiphy.gif)&oq=!%5BCoding+GIF%5D(https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FVTtANKl0beDFQRLDTh%2Fgiphy.gif)%0A&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ1OWowajSoAg6wAgE&client=ms-android-xiaomi-rvo3&sourceid=chrome-mobile&ie=UTF-8
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib2444&label=Profile%20views&color=0e75b6&style=flat" alt="habib2444" /> </p>
 
